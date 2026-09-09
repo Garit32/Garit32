@@ -19,13 +19,6 @@ A Model Context Protocol server that puts the Indonesian stock market inside Cla
 MCP client: broker flow (bandarmology), quotes, order book, fundamentals, screeners, alerts, and
 chart drawing through your own Stockbit account. 138 tools in 17 families, on npm.
 
-What I built there:
-
-- The npm release pipeline. Publishes on a version bump to `main`, asks the registry (not git) whether a version exists, and publishes before tagging so a failed run leaves nothing stranded.
-- The 7-day session fix. The CLI and the browser shared one token family, and every fresh process was silently revoking the other's session. Diagnosed by measuring token rotation, fixed with a shared encrypted access-token cache.
-- The `analyze` and `analyze_screen` tools: a four-pillar verdict (broker flow, trend, valuation, patterns) with a confidence score that measures evidence quality, then run across a whole watchlist.
-- Chartbit drawing (Fibonacci, zones), default-browser login, the live turnover sampler behind `/watch`, and the Claude Code skills for auth and status.
-
 ## Research projects (private while in progress)
 
 **idx-ml** · Python, LightGBM, SQLite
