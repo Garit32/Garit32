@@ -1,6 +1,6 @@
 # Hi, I'm Darren Wang
 
-Information Systems (Sistem Informasi) student in Indonesia. I spend most of my time on coursework,
+Information Systems (Sistem Informasi) student at Binus University, Alam Sutera campus, Indonesia. I spend most of my time on coursework,
 research papers, and building things that run unattended: trading-research pipelines, MCP servers,
 Discord bots, and the odd Minecraft plugin.
 
@@ -42,13 +42,10 @@ on a Windows server under scheduled tasks and posts to Discord.
 ## Other things I have built
 
 - **Atelier**: an encrypted notes-and-reminders dashboard, Cloudflare Pages front end + FastAPI back end, with a Tauri v2 desktop build.
-- **Minecraft plugins** (Java, Paper): a guild system, a gacha weapon system, a stats upgrade shop, and a cross-play monster-catching mode.
-- **Client work**: a multi-page company profile site for a printing business.
-- **Coursework**: Oracle SQL, database design, and interactive single-file HTML revision hubs for every exam.
 
 ## Stack
 
-`Python` `TypeScript` `Java` `SQL` `PowerShell` ·
+`Python` `TypeScript` `SQL` `PowerShell` ·
 `pandas` `LightGBM` `scikit-learn` `Node.js` `FastAPI` ·
 `Cloudflare` `GitHub Actions` `Docker` `Tauri` `MCP` `Claude Code`
 
