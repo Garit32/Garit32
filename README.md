@@ -2,7 +2,7 @@
 
 Information Systems (Sistem Informasi) student at Binus University, Alam Sutera campus, Indonesia. I spend most of my time on coursework,
 research papers, and building things that run unattended: trading-research pipelines, MCP servers,
-Discord bots, and the odd Minecraft plugin.
+and Discord bots.
 
 The thing I care most about right now is **AI engineering**, specifically applying machine learning
 to the Indonesian stock market (IDX) with honest evaluation: walk-forward validation, transaction
