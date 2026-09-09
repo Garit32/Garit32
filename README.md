@@ -2,7 +2,8 @@
 
 Information Systems (Sistem Informasi) student at Binus University, Alam Sutera campus, Indonesia. I spend most of my time on coursework,
 research papers, and building things that run unattended: trading-research pipelines, MCP servers,
-and Discord bots.
+Discord bots, and Atelier, an encrypted notes-and-reminders dashboard (Cloudflare Pages + FastAPI, with a
+Tauri v2 desktop build).
 
 The thing I care most about right now is **AI engineering**, specifically applying machine learning
 to the Indonesian stock market (IDX) with honest evaluation: walk-forward validation, transaction
@@ -38,10 +39,6 @@ optimises expected value instead.
 A stock consultant (`/analyze BBCA` gives a BUY/HOLD/SELL note in plain language), a growth
 screener over ~800 stocks, an IPO watcher, two paper-trading agents, and a live dashboard. Runs 24/7
 on a Windows server under scheduled tasks and posts to Discord.
-
-## Other things I have built
-
-- **Atelier**: an encrypted notes-and-reminders dashboard, Cloudflare Pages front end + FastAPI back end, with a Tauri v2 desktop build.
 
 ## Stack
 
